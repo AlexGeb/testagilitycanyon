@@ -13,22 +13,22 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "@agility/gatsby-source-agilitycms": "^1.4.0",
-    "dotenv": "^8.1.0",
-    "gatsby": "^2.21.4",
-    "gatsby-image": "^2.3.2",
-    "gatsby-plugin-netlify": "^2.1.33",
-    "gatsby-plugin-react-helmet": "^3.1.21",
-    "gatsby-plugin-sharp": "^2.5.1",
-    "gatsby-source-filesystem": "^2.2.1",
-    "gatsby-transformer-sharp": "^2.4.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1",
-    "truncate-html": "^1.0.2"
+    "@agility/gatsby-source-agilitycms": "^1.5.0",
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.24.47",
+    "gatsby-image": "^2.4.16",
+    "gatsby-plugin-netlify": "^2.3.13",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-sharp": "^2.6.27",
+    "gatsby-source-filesystem": "^2.3.24",
+    "gatsby-transformer-sharp": "^2.5.13",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "truncate-html": "^1.0.3"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.0.5"
   },
   "repository": {
     "type": "git",
